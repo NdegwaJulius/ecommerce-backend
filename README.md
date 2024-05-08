@@ -36,8 +36,8 @@ This is the backend component of an E-Commerce application. It provides RESTful 
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
-- MySQL (version X.X.X)
+- Node.js (version Latest)
+- MySQL (version Latest)
 
 ### Installation
 
@@ -51,3 +51,26 @@ This is the backend component of an E-Commerce application. It provides RESTful 
    npm install
 
    npm start
+
+### Usage
+- Once the server is running, you can send HTTP requests to the provided API endpoints to manage products, users, and orders.
+- Use tools like Postman or curl to interact with the APIs.
+
+### API Endpoints
+## Products
+- GET /products: Retrieve all products
+- POST /products: Add a new product
+## Users
+- GET /users: Retrieve all users
+- POST /users: Add a new user
+## Orders
+- POST /orders: Create a new order
+- GET /orders: Retrieve all orders
+- GET /orders/:id: Retrieve order details by ID
+For detailed API documentation, refer to the API documentation or Swagger documentation (if available).
+
+### Contributing
+Contributions are welcome! Please follow the Contributing Guidelines for more information.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
