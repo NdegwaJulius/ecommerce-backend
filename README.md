@@ -73,4 +73,4 @@ For detailed API documentation, refer to the API documentation or Swagger docume
 Contributions are welcome! Please follow the Contributing Guidelines for more information.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details
